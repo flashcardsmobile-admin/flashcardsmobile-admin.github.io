@@ -12,7 +12,7 @@ description: > # your text below (remove <br /> elements if you don't need line 
   <s><a href="#">View My LinkedIn Profile</a></s> I do not use Social Media.
 repository: "csci-csu/csci-portfolio"
 github_username:  flashcardsmobile-admin # update with your username
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: UA-000000-0 # I don't believe in harming potential employers by tracking them. This would be equivalent to punching them in the face in the middle of an interview. Completely uncalled for and unprofessional. Whoever put Google Analytics on a Portfolio site template should not be considered an ethical actor.
 
 # Build setting
 theme: jekyll-theme-minimal
