@@ -7,9 +7,11 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:pjlink@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Project 1 Title | CSCI 301](project1)
+### [Senior Project | CSCI 498](https://hub.darcs.net/pjlink/Senior-Project)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+In Progress. Private Repo.
+
+![One of the macros in the custom framework](images/framework-screenshot.png)
 
 ---
 ### [Project 2 Title | CSCI 315](project1)
