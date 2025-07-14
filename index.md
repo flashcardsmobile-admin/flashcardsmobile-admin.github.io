@@ -14,9 +14,11 @@ In Progress. Private Repo.
 ![One of the macros in the custom framework](images/framework-screenshot.png)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [Verilog Build Step | CSCI 315](https://github.com/flashcardsmobile-admin/verilog-build-step-csci-330)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+Build step I had to engineer for a verilog program since I was not aware that verilog had loops and did not want to look up the answer.
+
+![Tests running](images/adder-test.png)
 
 ---
 ### [Project 3 Title | CSCI 325](project1)
