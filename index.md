@@ -21,9 +21,11 @@ Build step I had to engineer for a verilog program since I was not aware that ve
 ![Tests running](images/adder-test.png)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [Inventive Map Implementation | CSCI 325](https://github.com/flashcardsmobile-admin/map-implementation)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+A map implementation in Data Structures that doesn't use trees or hash tables.
+
+![Snippets of some interesting parts of the code](images/screenshot-cpp.png)
 
 ---
 ### [Project 4 Title | CSCI 332](project1)
